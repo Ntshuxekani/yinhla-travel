@@ -4,39 +4,28 @@
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>
-        https://ntshuxekani.github.io/yinhla-travel/
-        </loc>
+        <loc>https://ntshuxekani.github.io/yinhla-travel/</loc>
     </url>
 
     <url>
-        <loc>
-        https://ntshuxekani.github.io/yinhla-travel/destinations.html
-        </loc>
+        <loc>https://ntshuxekani.github.io/yinhla-travel/destinations.html</loc>
     </url>
 
     <url>
-        <loc>
-        https://ntshuxekani.github.io/yinhla-travel/hotels.html
-        </loc>
+        <loc>https://ntshuxekani.github.io/yinhla-travel/hotels.html</loc>
     </url>
 
     <url>
-        <loc>
-        https://ntshuxekani.github.io/yinhla-travel/services.html
-        </loc>
+        <loc>https://ntshuxekani.github.io/yinhla-travel/services.html</loc>
     </url>
 
     <url>
-        <loc>
-        https://ntshuxekani.github.io/yinhla-travel/venues.html
-        </loc>
+        <loc>https://ntshuxekani.github.io/yinhla-travel/venues.html</loc>
     </url>
 
     <url>
-        <loc>
-        https://ntshuxekani.github.io/yinhla-travel/contact.html
-        </loc>
+        <loc>https://ntshuxekani.github.io/yinhla-travel/contact.html</loc>
+       
     </url>
 
 </urlset>
