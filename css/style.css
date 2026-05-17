@@ -1543,28 +1543,32 @@ linear-gradient(
     /* Hero */
 
     .hero{
-    padding: 0 5%;
-    min-height: 85vh;
+     padding: 120px 20px 80px;
+    min-height: 100vh;
     }
 .hero-content{
     width: 100%;
-
+    text-align: center;
     padding: 0 15px;
 }
     .hero h1{
         font-size: 3rem;
+        line-height: 1.2;
+
+        margin-bottom: 20px;
     }
 
     .hero p{
-        font-size: 1rem;
-         max-width: 100%;
-
-    line-height: 1.7;
+        font-size: 1.1rem;
+        max-width: 100%;
+        margin-bottom: 35px;
+        line-height: 1.7;
 
     word-wrap: break-word;
     }
 
     .hero-buttons{
+         display: flex;
         flex-direction: column;
         width: 100%;
          align-items: center;
@@ -1574,7 +1578,7 @@ linear-gradient(
 .hero-buttons .btn{
     width: 100%;
     max-width: 320px;
-
+    padding: 18px;
     text-align: center;
 }
     /* Section Titles */
@@ -1615,7 +1619,7 @@ linear-gradient(
     min-height: 75vh;
 }
     .hero h1{
-        font-size: 2rem;
+        font-size: 2.5rem;
 
      line-height: 1.15;
     }
