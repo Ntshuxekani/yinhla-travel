@@ -130,21 +130,27 @@ backToTop.addEventListener("click", () => {
     });
 
 });
+
 // ================= BOOKING MODAL =================
+
+// Elements
 
 const bookingModal =
 document.getElementById("bookingModal");
 
-const bookButtons = document.querySelectorAll(
-    '.nav-btn, .hero-book-btn'
-);
-
 const closeModal =
 document.getElementById("closeModal");
 
-/* Open Modal */
+// ALL booking buttons
 
-bookButtons.forEach(button => {
+const bookingButtons =
+document.querySelectorAll(
+".nav-btn, .hero-book-btn"
+);
+
+// Open Modal
+
+bookingButtons.forEach(button => {
 
     button.addEventListener("click", (e) => {
 
@@ -156,7 +162,7 @@ bookButtons.forEach(button => {
 
 });
 
-/* Close Modal */
+// Close Modal
 
 closeModal.addEventListener("click", () => {
 
@@ -164,7 +170,7 @@ closeModal.addEventListener("click", () => {
 
 });
 
-/* Close Outside */
+// Close when clicking outside
 
 window.addEventListener("click", (e) => {
 
