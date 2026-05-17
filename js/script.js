@@ -135,8 +135,9 @@ backToTop.addEventListener("click", () => {
 const bookingModal =
 document.getElementById("bookingModal");
 
-const bookButtons =
-document.querySelectorAll(".nav-btn");
+const bookButtons = document.querySelectorAll(
+    '.nav-btn, .hero-book-btn'
+);
 
 const closeModal =
 document.getElementById("closeModal");

@@ -1503,10 +1503,9 @@ linear-gradient(
 
     /* Hide Desktop Button */
 
-    .nav-btn{
-        display: none;
-    }
-
+    .navbar .nav-btn{
+    display: none;
+}
     /* Mobile Menu */
 
     .nav-links{
